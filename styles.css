@@ -82,3 +82,18 @@
         position: absolute;
     }
   }
+
+  .fondo-1 {
+    border-radius: 2.8%;
+    background-color: rgb(241, 238, 238);
+  }
+
+  .fondo-2 {
+    border-radius: 2.8%;
+    background-color: whitesmoke;
+  }
+  
+  .fondo-3 {
+    border-radius: 2.8%;
+    background-color: ghostwhite;
+  }
