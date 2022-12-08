@@ -44,3 +44,41 @@
     font-size: 32px;
     line-height: 40px;
   }
+
+  .modelo {
+    height: 75px;
+  }
+
+  span {
+    font-weight: bold;
+  }
+  
+  .verde {
+    color: rgb(15, 177, 15);
+  }
+  
+  .rojo {
+    color: red;
+  }
+  
+  .azul {
+    color: blue;
+  }
+  
+  footer {
+    font-size: small;
+    color: grey;
+    bottom: 0;
+    text-align: center;
+  }
+  .contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  @media(min-width:600px) {
+    footer {
+        position: absolute;
+    }
+  }
