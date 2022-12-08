@@ -117,3 +117,8 @@ footer p {
 .espacio-blanco {
   padding: 0.5rem;
 }
+.container-compra {
+  background-color: whitesmoke;
+  max-width: 500px;
+  margin: 0 auto;
+}
