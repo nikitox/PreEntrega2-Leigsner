@@ -118,7 +118,31 @@ footer p {
   padding: 0.5rem;
 }
 .container-compra {
-  background-color: whitesmoke;
+  background-color: #15202B;
   max-width: 500px;
   margin: 0 auto;
+}
+
+.background-color {
+  background-color: #15202B;
+  color: #FFFFFF;
+}
+
+form {
+  margin-top: 5rem;
+}
+
+@media (max-width:600px) {
+ form {
+  margin-top: 1rem;
+ }
+ .container-compra {
+  max-width: 300px;
+ }
+}
+
+.advertencia {
+  background-color: rgb(92, 37, 37);
+  text-align: center;
+  border-radius: 6%;
 }
